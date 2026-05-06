@@ -2,7 +2,7 @@
 <h3 align="center">A passionate software developer from Egypt 🇪🇬</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF88&center=true&width=435&lines=C%23+.NET+Desktop+Developer;PHP+%2F+MySQL+Web+Developer;Competitive+Programmer;Always+learning+new+things" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF88&center=true&width=435&lines=C%23+.NET+Developer;PHP+%2F+MySQL+Web+Developer;Competitive+Programmer;Always+learning+new+things" alt="Typing SVG" />
 </p>
 
 ## 🌐 Socials:
