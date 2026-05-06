@@ -12,10 +12,10 @@
 
 | Project | Description | Tech |
 |--------|-------------|------|
-| [PsCafe](https://github.com/Mazen-Eltelbany/PsCafe-Management_System.git)) | Café management desktop app | C# .NET, SQL Server |
-| [DVLD](https://github.com/Mazen-Eltelbany/DVLD-System.git)) | Drivers & vehicles license system | C# .NET, SQL Server |
-| [Restaurant System](https://github.com/Mazen-Eltelbany/Restaurant-management.git)) | Restaurant management system | Python, Django |
-| [🏦 Bank System](https://github.com/Mazen-Eltelbany/Bank-System.git)) | Console-based banking system | C++ |
+| [PsCafe](https://github.com/Mazen-Eltelbany/PsCafe-Management_System.git) | Café management desktop app | C# .NET, SQL Server |
+| [DVLD](https://github.com/Mazen-Eltelbany/DVLD-System.git) | Drivers & vehicles license system | C# .NET, SQL Server |
+| [Restaurant System](https://github.com/Mazen-Eltelbany/Restaurant-management.git) | Restaurant management system | Python, Django |
+| [Bank System](https://github.com/Mazen-Eltelbany/Bank-System.git) | Console-based banking system | C++ |
 
 
 # 💻 Tech Stack:
