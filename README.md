@@ -1,3 +1,9 @@
+<h1 align="center">Hi 👋, I'm Mazen Eltelbany</h1>
+<h3 align="center">A passionate software developer from Egypt 🇪🇬</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF88&center=true&width=435&lines=C%23+.NET+Desktop+Developer;PHP+%2F+MySQL+Web+Developer;Competitive+Programmer;Always+learning+new+things" alt="Typing SVG" />
+</p>
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/MazenEltlbany) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/mazenaltlbany4?igsh=MTNlamx0d2EzZXh5NA==) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mazen-eltelbany-b9641a326?utm_source=share_via&utm_content=profile&utm_medium=member_android) 
